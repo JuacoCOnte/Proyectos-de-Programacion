@@ -1,0 +1,14 @@
+* {
+    padding: auto;
+}
+
+.pacientes {
+    padding: 5px;
+}
+.table {
+    
+    border-color: rgb(0, 0, 0);
+    border-width: 0.1cm;
+    border-style: solid;
+    border-collapse: collapse;
+}
